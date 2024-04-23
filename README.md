@@ -12,5 +12,5 @@
   * 5th year is the turning point year. If you promote within 5 year, then associates are most likely stay. Very rare those who left the company after promotion<br>
   * We did not see a difference between salary range and satisfaction level<br>
 <br>
-dataset:  /kaggle/input/hr-analytics/HR_comma_sep.csv<br>
+
 
