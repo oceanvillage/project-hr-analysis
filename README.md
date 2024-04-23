@@ -1,19 +1,19 @@
 # project-hr-analysis
 
-##Overview##
-
-##Objective##
+**Overview**
  HR dept. likes to improve employee satisfaction to keep them based on the data
 
-##Result##
+**Objective**
+
+**Result**
 
 
 dataset:  /kaggle/input/hr-analytics/HR_comma_sep.csv
 
-##PACE: Plan Stage##
+**PACE: Plan Stage**
 
-##PACE: Analyze Stage##
+**PACE: Analyze Stage**
 
-##PACE: Construct Stage##
+**PACE: Construct Stage**
 
-##PACE: Execute Stage##
+**PACE: Execute Stage**
