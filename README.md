@@ -4,7 +4,7 @@
   To keep employees, HR dept. likes to improve employee satisfaction based on the data<br>
 <br>
 ## Objective<br>
-  Analyze the data and Advise HR the best approach<br>
+  Analyze the data and Advise HR the best approach to prevent/minimize the leave<br>
 <br>
 ## Result<br>
 
