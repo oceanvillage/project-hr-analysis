@@ -2,7 +2,7 @@
 
 ## Overview<br>
   To keep employees, HR dept. likes to improve employee satisfaction based on the data<br>
-  USE  Random Forest Classifier, DecisionTree Classifier, XGB Classifier<br>
+  Use  Random Forest Classifier, DecisionTree Classifier, XGB Classifier<br>
 <br>
 ## Objective<br>
   Analyze the data and Advise HR the best approach to prevent/minimize the leave<br>
