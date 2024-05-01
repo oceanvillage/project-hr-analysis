@@ -5,7 +5,7 @@
   Try  Random Forest Classifier, DecisionTree Classifier, XGB Classifier<br>
 <br>
 ## Objective<br>
-  Analyze the data and Advise HR the best approach to prevent/minimize the leave<br>
+  Advise HR the best approach to prevent/minimize the leave by analyzing the data<br>
 <br>
 ## Result<br>
 ![graph 1](/assets/graph_1.png)![graph 2](/assets/graph_2.png)<br>
