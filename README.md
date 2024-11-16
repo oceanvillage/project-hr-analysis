@@ -8,7 +8,7 @@
   Advise HR the best approach to prevent/minimize the leave by analyzing the data<br>
 <br>
 ## Result<br>
-Left 1 means that the employee left the company.<br> 
+left 1 means that the employee left the company.<br> 
 ![graph 1](/assets/graph_1.png)![graph 2](/assets/graph_2.png)<br>
 ![graph 3](/assets/graph_3.png)![graph 4](/assets/graph_4.png)<br>
 ![graph 5](/assets/graph_5.png)![graph 6](/assets/graph_6.png)<br>
